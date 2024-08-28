@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Kauã Almeida
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kau7almeida)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauã-almeida-dev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-almeida-4791032bb/)
 
 ![Kau7almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=Kau7almeida&show_icons=true&theme=dark)
 
