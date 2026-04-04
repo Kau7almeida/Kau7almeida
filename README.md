@@ -50,15 +50,6 @@ Atualmente focado em ferramentas de produtividade com IA para acelerar o desenvo
 
 ---
 
-### Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| **[Fluig Accelerator](https://github.com/Kau7almeida/fluig-accelerator)** | Knowledge base + CLI para geração autônoma de artefatos Fluig com IA |
-| **fluig-acc-cli** | CLI com comandos de scaffolding, governance e code generation para Fluig |
-
----
-
 ### GitHub Stats
 
 <div align="center">
