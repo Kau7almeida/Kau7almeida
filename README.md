@@ -1,19 +1,84 @@
-## Olá! Eu sou o Kauã Almeida
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kau7almeida)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-almeida-4791032bb/)
+# Kauã Almeida
 
-![Kau7almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=Kau7almeida&show_icons=true&theme=dark)
+**Fullstack Developer · Entrepreneur · Educator**
 
-#### Tecnologias que utilizo no meu dia
+Desenvolvedor na [JYNX](https://jynx.com.br) (parceira TOTVS) · Fundador da [Live Tech](https://github.com/Kau7almeida) · Instrutor na Universidade Jynx
 
-<div style="display: inline_block" > <br/>
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react.js" />
-  <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="saas" />
-  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-  <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-almeida-4791032bb/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kau7almeida)
+
+</div>
+
+---
+
+### Sobre mim
+
+Tenho 19 anos, moro em São Paulo e trabalho como desenvolvedor fullstack especializado no ecossistema **Fluig/TOTVS**. No dia a dia, construo automações BPM, datasets, widgets e integrações para clientes enterprise. Em paralelo, toco a **Live Tech** — minha agência de desenvolvimento — e dou aula de programação na Universidade Jynx.
+
+Atualmente focado em ferramentas de produtividade com IA para acelerar o desenvolvimento na plataforma Fluig.
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Backend & Database**
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+**Plataforma & Ferramentas**
+
+![Fluig](https://img.shields.io/badge/-Fluig/TOTVS-00A1E0?style=flat&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| **[Fluig Accelerator](https://github.com/Kau7almeida/fluig-accelerator)** | Knowledge base + CLI para geração autônoma de artefatos Fluig com IA |
+| **fluig-acc-cli** | CLI com comandos de scaffolding, governance e code generation para Fluig |
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kau7almeida&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kau7almeida&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
+
+</div>
+
+---
+
+### Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kau7almeida/Kau7almeida/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kau7almeida/Kau7almeida/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Kau7almeida/Kau7almeida/output/github-snake.svg" />
+</picture>
+
 </div>
