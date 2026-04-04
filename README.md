@@ -4,7 +4,7 @@
 
 **Fullstack Developer · Entrepreneur · Educator**
 
-Desenvolvedor na [JYNX](https://jynx.com.br) (parceira TOTVS) · Fundador da [Live Tech](https://github.com/Kau7almeida) · Instrutor na Universidade Jynx
+Desenvolvedor na [JYNX](https://jynx.com.br) (parceira TOTVS) · Fundador da [Live Tech](https://www.livetech.app) · Instrutor na Universidade Jynx
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-almeida-4791032bb/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kau7almeida)
