@@ -50,18 +50,6 @@ Atualmente focado em ferramentas de produtividade com IA para acelerar o desenvo
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kau7almeida&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kau7almeida&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
-
-</div>
-
----
-
 ### Contribuições
 
 <div align="center">
